@@ -6,12 +6,12 @@ My work for the Laborator at Control Systems in Robotics
 
 ### Values in MatLab Console
 
-M = 2.2[kg]
-J = 0.05 [kg * m^2]
-Kv = 172.5
-Komg = 0.03
-K1 = 7
-K2 = 0.5
+M = 2.2[kg] <br>
+J = 0.05 [kg * m^2] <br>
+Kv = 172.5 <br>
+Komg = 0.03 <br>
+K1 = 7 <br>
+K2 = 0.5 <br>
 
 ### The System
 
